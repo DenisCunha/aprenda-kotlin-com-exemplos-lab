@@ -16,5 +16,5 @@ data class Formacao(val nome: String, var conteudos: List<ConteudoEducacional>) 
 }
 
 fun main() {
-matricular('Denis')
+
 }
